@@ -1,4 +1,6 @@
-### Repositório criado para compartilhar resoluções propostas para os desafios apresentados.
+### Processo Seletivo Supera Java-React
 
-#### Neste repositórios estão os desafios 1 até 4, armazenados individualmente em seus diretórios.
+- #### Repositório criado para compartilhar resoluções propostas para os desafios apresentados. 
+
+- #### Neste contém os desafios 1 até 4, armazenados individualmente em seus diretórios.
 
